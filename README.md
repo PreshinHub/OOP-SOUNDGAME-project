@@ -1,2 +1,2 @@
 # OOP-SOUNDGAME-project
-SoundGame project is a simple quizzle that matches animals to their different aounds
+SoundGame project is a simple quizzle that matches different animals to their respective sounds.
